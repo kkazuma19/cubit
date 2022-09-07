@@ -6,7 +6,7 @@ import cubit
 # fuel pellet
 f_radius = 4.1
 f_height = 11.9
-n_pellets = 10
+n_pellets = 9
 #
 gap = 0.08
 # cladding
