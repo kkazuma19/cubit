@@ -6,7 +6,7 @@ import cubit
 # fuel pellet
 f_radius = 4.1
 f_height = 2 * 5.93
-n_pellets = 10
+n_pellets = 3
 
 # dish
 dish_sph_radius = 10.1542
